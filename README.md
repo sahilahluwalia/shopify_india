@@ -8,7 +8,7 @@ Mobile Responsive Homepage of Shopify India.
 - Reusing Elements
 
 ## Deployed link
-- [DEPLOYED WEBPAGE]()
+- [DEPLOYED WEBPAGE](https://shopifyindia.netlify.app/)
 
 
 ## Screenshot
